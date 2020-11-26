@@ -22,6 +22,10 @@ else:
 
 print(f"\nRAZEM: {purchaseValue} PLN")
 
+print("TO BEDZIE KOLEJNY COMMIT NA GIT!")
+
+print("I NASTEPNY COMMIT!")
+
 
 
 
